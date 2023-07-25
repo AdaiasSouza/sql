@@ -27,7 +27,7 @@ create table comvende(
 		c_razavende varchar(100),
 		c_fonevende varchar(20),
 		n_porcvende float(10,2),
-	primary key(n_numeforne)
+	primary key(n_numevende)
 );
 
 create table comprodu(
