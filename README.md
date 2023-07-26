@@ -8,7 +8,7 @@
   
     users.sql (criação de usuários e suas respectivas restrições/privilégios de acesso)
     
-    create.sql (criação do banco de dados utilizando no exemplo e respectivamente a criação das suas tabelas)
+    create.sql (criação do banco e tabelas de dados)
     
     constraints.sql (criação das restrições de chave primária e chave estrangeira)
     ...
