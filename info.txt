@@ -1,0 +1,8 @@
+Verificar quantidade de conexões:
+select count(host) from information_schema.processlist;
+
+Verificar quantidade máxima de conexões:
+select @@max_connections
+
+Verificar processos ativos:
+show processlist;

@@ -1,5 +1,5 @@
 # criando novo usuario
-create user usermysql@'%' identified by 'cursomysql';
+create user usermysql@'%' identified by 'cursomysql'; # usermysql -> nome do usuario, cursomysql -> senha do usuário
 grant all privileges on *.* to usermysql@'%' with grant option;
 revoke all on *.* from usermysql;
 
